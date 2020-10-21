@@ -1,0 +1,13 @@
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\bin\Debug\Matriz_decisión.exe.config
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\bin\Debug\Matriz_decisión.exe
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\bin\Debug\Matriz_decisión.pdb
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.csprojAssemblyReference.cache
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.Form1.resources
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.Properties.Resources.resources
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.csproj.GenerateResource.cache
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.csproj.CoreCompileInputs.cache
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.exe
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.pdb
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Geronimo\Desktop\3_Sistemas de apollo a la desicion\Programa\Matriz_decisión\Matriz_decisión\obj\Debug\Matriz_decisión.csproj.CopyComplete
