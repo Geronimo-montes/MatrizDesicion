@@ -111,7 +111,7 @@ namespace Matriz_decisión
             dataGridView1.Columns.Clear();
             dataGridView1.DataSource = tbres;
          
-            /*
+           /* 
             //Ocultamos las columnas de los pesos
             dataGridView1.Columns["0"].Visible = false;
             dataGridView1.Columns["1"].Visible = false;
